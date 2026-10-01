@@ -112,7 +112,7 @@ Example 4:
 fig = uifigure;
 r = rand(10,3);
 r(1) = r(1)/1e10;
-r = half(r);
+r = single(r);
 uit = uitable(fig,"Data",r);
 copytable(uit,"\t")
 delete(fig)
