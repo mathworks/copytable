@@ -1,7 +1,7 @@
 <a id="TMP_7d20"></a>
 
 # copytable
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://github.com/MathWorks/copytable) 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/copytable) 
 
 Copy MATLAB® tables to the clipboard for pasting into Excel® or any text\-based application
 
